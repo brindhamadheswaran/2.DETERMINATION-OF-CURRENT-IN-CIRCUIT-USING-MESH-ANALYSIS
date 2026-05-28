@@ -22,6 +22,10 @@
 
 **CIRCUIT DIAGRAM:**
 
+<img width="900" height="1420" alt="WhatsApp Image 2026-05-28 at 8 45 44 PM" src="https://github.com/user-attachments/assets/7b7fa0da-8282-46c8-ad69-866e5936af66" />
+
+<img width="860" height="1349" alt="WhatsApp Image 2026-05-28 at 8 46 16 PM" src="https://github.com/user-attachments/assets/356e3c7f-fa6c-4325-aa4c-830f02c1c270" />
+
 **PROCEDURE:** 
 
 1.	Give connections as per the circuit diagram.
